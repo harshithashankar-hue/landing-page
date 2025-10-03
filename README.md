@@ -20,13 +20,6 @@ It is a simple, clean, and responsive landing page built using **HTML5 & CSS3**.
 
 ---
 
-## 📸 Screenshot
-![Landing Page Screenshot](images/screenshot.png)
-
-*(Take a screenshot of your landing page → save it inside an `images` folder → name it `screenshot.png` → it will show up here automatically on GitHub)*
-
----
-
 ## 🛠 How to Run
 1. Clone the repo:
    ```bash
